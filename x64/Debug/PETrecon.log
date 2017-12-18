@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  PETrecon.cpp
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(49): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(50): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(54): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(55): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(63): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(64): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(130): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(131): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(135): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(136): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(141): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(142): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(146): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(147): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(152): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(153): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(157): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(158): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(169): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(170): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\pet-recon\petrecon.cpp(171): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  PETrecon.vcxproj -> D:\tsinghua\大四秋季\核医学仪器与方法\PET-recon\x64\Debug\PETrecon.exe
